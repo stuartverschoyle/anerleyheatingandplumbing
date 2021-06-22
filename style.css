@@ -56,6 +56,7 @@ Version: 1.0
 	margin-top: 15px;
     margin-bottom: 10px;
 }
+
 .logo a{
 	display:inline-block;
 }
@@ -2476,3 +2477,9 @@ blockquote p {
 /*======================================
 	End Footer CSS
 ========================================*/  
+
+@media only screen and (max-width: 600px) {
+	.logo {
+	  max-width: 80%;
+	}
+  }
