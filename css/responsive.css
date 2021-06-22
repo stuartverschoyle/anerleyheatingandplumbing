@@ -77,7 +77,8 @@
 	background: none;
 }
 .slicknav_nav {
-  background: #F7B626;
+	background: #2face9;
+    margin-top: 50px;
 }
 .slicknav_nav a i {
   display: none;
