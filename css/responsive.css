@@ -1,0 +1,206 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.top-bar {
+	padding: 10px 0;
+}
+.button.top{
+	display:none;
+}
+.top-contact {
+	margin-top: 3px;
+}
+.navbar-nav {
+  display: inline-block;
+  flex-direction: initial;
+}
+.main-menu .nav li {
+	margin-right: 25px;
+}
+.hero-area .hero-text h1{
+	font-size:38px;
+}
+.our-features .single-feature {
+	padding: 20px;
+}
+.section-title {
+	padding: 0 85px;
+}
+.call-to-action .call-main {
+	margin: 38px 0;
+}
+.call-to-action h1 {
+  font-size: 24px;
+}
+.call-to-action h1 span {
+  font-size: 16px;
+  text-transform: capitalize;
+}
+.blogs-main .blog-inner h4 {
+	font-size: 16px;
+}
+.error-inner {
+	text-align: center;
+	padding: 0 20px;
+}
+.image-gallery img{
+	display:none;
+}
+.contact-us .contact-address {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+}
+@media only screen and (max-width: 767px) {
+.mobile-nav{
+	display:block;
+}
+.header-inner{
+	padding:15px 0;
+}
+.logo {
+	margin:0;
+}
+.slicknav_menu {
+	margin-top: -46px;
+	background: transparent;
+}
+.slicknav_menu .slicknav_icon-bar {
+	background: #F7B626;
+	width: 28px;
+	text-shadow: none;
+	box-shadow: none;
+	height: 3px;
+	right: 0;
+}
+.slicknav_menu .slicknav_btn {
+	padding: 5px 10px;
+	background: none;
+}
+.slicknav_nav {
+  background: #F7B626;
+}
+.slicknav_nav a i {
+  display: none;
+}
+.slicknav_arrow {
+  float: right;
+}
+.slicknav_nav .slicknav_item a:hover {
+	color: #eee;
+}
+.top-contact {
+	text-align: center;
+}
+.header-social {
+	text-align: center;
+	display: block;
+	margin-top: 10px;
+}
+.main-menu{
+	display:none;
+}
+.top-bar {
+	padding: 10px 0;
+}
+.button.top{
+	display:none;
+}
+.top-contact {
+	margin-top: 3px;
+}
+.navbar-nav {
+  display: inline-block;
+  flex-direction: initial;
+}
+.main-menu .nav li {
+	margin-right: 25px;
+}
+.hero-area .hero-text h1 {
+	font-size: 28px;
+	line-height: 30px;
+}
+.our-features .single-feature {
+	padding: 20px;
+}
+.section-title {
+	padding: 0;
+}
+.section-title h2 {
+	font-size: 22px;
+}
+.section-title .icon {
+	top: 40px;
+}
+.nav {
+  display: initial;
+}
+.app {
+  text-align: center;
+}
+.app a {
+  display: block;
+  margin-bottom: 10px;
+}
+.countdown .info h3 {
+	font-size: 35px;
+}
+.service-nav #myTab li {
+  display: ;
+  border: none;
+}
+.call-to-action .call-main {
+	margin: 38px 0;
+}
+.call-to-action h1 {
+  font-size: 24px;
+}
+.call-to-action h1 span {
+  font-size: 16px;
+  text-transform: capitalize;
+}
+.blogs-main .blog-inner h4 {
+	font-size: 16px;
+}
+.image-gallery img{
+	display:none;
+}
+.pagination li {
+  margin-right: 0px;
+}
+.pagination li a {
+  width: 38px;
+  height: 38px;
+  line-height: 38px;
+}
+.portfolio-img .col-12 {
+  margin-bottom: 15px;
+}
+.portfolio-img .col-12:last-child {
+  margin: 0;
+}
+.portfolio.single .button .btn {
+  margin: 0;
+  margin-bottom: 10px;
+}
+.portfolio.single .button .btn:last-child {
+  margin: 0;
+}
+blockquote {
+	padding: 25px;
+}
+.contact-us .contact-address {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.contact-us .form-main h2 {
+	font-size: 22px;
+}
+.blogs-main.archive.single .blog-content h1 {
+	font-size: 22px;
+}
+.error-inner {
+	text-align: center;
+	padding: 0 20px;
+}
+}
